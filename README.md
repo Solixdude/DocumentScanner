@@ -91,3 +91,8 @@ Ensure the input image has good lighting and clear document edges.
 Adjust the Canny edge detection thresholds if no edges are detected.
 
 Use the debug visualization steps in the script to inspect intermediate results.
+
+
+License
+
+This project is licensed under the MIT License.
