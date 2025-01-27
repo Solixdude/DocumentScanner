@@ -1,6 +1,6 @@
 Document Scanner
 
-This project is a simple document scanner that uses image processing techniques to detect and transform a document from an image into a top-down, scanned-like view.
+This project is a document scanner that uses image processing techniques to detect and transform a document from an image into a top-down, scanned-like view.
 
 Features
 
